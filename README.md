@@ -5,15 +5,15 @@ I'm Fahim! I'm passionate about WebApps!
 
 ### Skills I'm Polishing
 
-### Skills
 <span style="background-color:  #FFFFFF80; padding: 5px; border-radius: 5px;">
-<img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/0657581f-d8fa-4380-981c-e60e20467acf" alt="HTML" width="50" height="50"> </span> 
+<img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/0657581f-d8fa-4380-981c-e60e20467acf" alt="HTML" width="50" height="50"></span> 
 &nbsp;
-<img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/cbe676e9-a06a-4420-b90e-87a688bab02c" alt="CSS" width="50" height="50"> &nbsp;
-<img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/e5b4525e-f875-4355-b527-23aa0239257c" alt="JavaScript" width="50" height="50">
 
-
-<!--![HTML](https://github.com/DevPentakill/DevPentakill/assets/155483224/0657581f-d8fa-4380-981c-e60e20467acf) &nbsp; ![CSS](https://github.com/DevPentakill/DevPentakill/assets/155483224/cbe676e9-a06a-4420-b90e-87a688bab02c) &nbsp; ![JS](https://github.com/DevPentakill/DevPentakill/assets/155483224/e5b4525e-f875-4355-b527-23aa0239257c) -->
+<span style="background-color:  #F0F0F0; padding: 5px; border-radius: 5px;">
+<img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/cbe676e9-a06a-4420-b90e-87a688bab02c" alt="CSS" width="50" height="50"></span>
+&nbsp;
+<span style="background-color:  #F0F0F0; padding: 5px; border-radius: 5px;">
+<img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/e5b4525e-f875-4355-b527-23aa0239257c" alt="JavaScript" width="50" height="50"></span>
 
 ## Knock Me
 
