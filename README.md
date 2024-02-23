@@ -1,7 +1,7 @@
 ### HELLO WORLD 👋
 ![Airforce Markkkk](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlya2pvcmpuOGMycHRpeTAxODI0YXVidzhtaGNrY2Y5dGZmaXhqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTxWtmX2b0oH6/giphy.gif)
 
-I'm Fahim (ফাহিম)! I'm passionate about WebApps!
+I'm Fahim(ফাহিম) a.k.a. Darius(ডেরিয়াস)! I'm passionate about WebApps!
 
 ## Skills I'm Polishing
 <b>HTML</b>.........<b>CSS</b>.........<b>JavaScript</b>
