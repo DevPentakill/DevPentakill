@@ -5,6 +5,7 @@ I'm Fahim! I'm passionate about WebApps!
 
 ## Skills I'm Polishing
 HTML CSS JavaScript
+&nbsp;
 <span style="background-color:  #FFFFFF80; padding: 5px; border-radius: 5px;">
 <img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/0657581f-d8fa-4380-981c-e60e20467acf" alt="HTML" width="50" height="50"></span> 
 &nbsp;
