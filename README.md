@@ -3,8 +3,8 @@
 
 I'm Fahim! I'm passionate about WebApps!
 
-### Skills I'm Polishing
-
+## Skills I'm Polishing
+HTML CSS JavaScript
 <span style="background-color:  #FFFFFF80; padding: 5px; border-radius: 5px;">
 <img src="https://github.com/DevPentakill/DevPentakill/assets/155483224/0657581f-d8fa-4380-981c-e60e20467acf" alt="HTML" width="50" height="50"></span> 
 &nbsp;
@@ -18,5 +18,6 @@ I'm Fahim! I'm passionate about WebApps!
 ## Knock Me
 
 LinkedIn: [Darius Top](https://www.linkedin.com/in/darius-top-bd/)
+FaceBook: [Darius Top] (https://www.facebook.com/top.darius)
 
 Feel free to reach out if you have any questions or just want to connect!
