@@ -19,6 +19,6 @@ I'm Fahim! I'm passionate about WebApps!
 ## Knock Me
 
 LinkedIn: [Darius Top](https://www.linkedin.com/in/darius-top-bd/)
-FaceBook: [Darius Top] (https://www.facebook.com/top.darius)
+FaceBook: [Darius Top](https://www.facebook.com/top.darius)
 
 Feel free to reach out if you have any questions or just want to connect!
